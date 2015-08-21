@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Basic Scene Example</string>
+
+  <string name="hello_world">Hello world!</string>
+  <string name="action_settings">Settings</string>
+  <string name="text_animation">This is an animation :)</string>
+  <string name="animate_button">ANIMATE</string>
+</resources>
